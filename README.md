@@ -1,9 +1,8 @@
 # LinearRegressionsPractice
 Team macro looks to improve their algorithm
 
-
-In this program, we are trying to do a polynomial multiple linear regression.
-For some theory behind it look here: https://towardsdatascience.com/regularization-machine-learning-891e9a62c58d
+Macro 2.* - linear regression
+Macro 3.* - random Forest
 
 I think that this is the next logical step for our algorithm.  It is a slight step up, but nothing super crazy.  Maybe next we should try random forests then neutral netowrks, ect.
 
